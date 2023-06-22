@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+	  <parameter name="browser" value="edge"></parameter>
+    <classes>
+      <class name="lab7.ho2"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Tes2">
+	  <parameter name="browser" value="chr"></parameter>
+    <classes>
+      <class name="lab7.ho2"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
